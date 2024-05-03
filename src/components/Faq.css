@@ -1,0 +1,157 @@
+.data-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 16px;
+  background-color: rgba(255, 255, 255, 0.04);
+  width: 100%;
+  height: 100%;
+}
+.control-hub {
+  filter: blur(10px);
+  border-radius: 16px;
+  background-color: rgba(255, 255, 255, 0.05);
+  border: 5px solid rgba(255, 255, 255, 0.4);
+  box-sizing: border-box;
+  z-index: 2;
+}
+.control-hub,
+.link-connector,
+.model-evaluation {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.link-connector {
+  filter: blur(7px);
+  border-radius: 16px;
+  background-color: transparent;
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  box-sizing: border-box;
+  z-index: 3;
+}
+.model-evaluation {
+  margin: 0 !important;
+  right: 0;
+}
+.frame-child10,
+.shape-circle-icon {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  width: 462px;
+  height: 6px;
+  z-index: 1;
+}
+.frame-child10 {
+  top: 0;
+  background: radial-gradient(50% 50%at 50% 50%, #fff, rgba(255, 255, 255, 0));
+  height: 3px;
+  z-index: 4;
+}
+.shape-circle-parent {
+  height: 7px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+}
+.image-square {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 17px 0 12px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.div,
+.what-is-the {
+  position: relative;
+  letter-spacing: 0.11em;
+  text-transform: uppercase;
+}
+.what-is-the {
+  flex: 1;
+  line-height: 25px;
+  display: inline-block;
+  /* min-width: 288px; */
+  /* max-width: 100%; */
+  font-size: 17px;
+}
+.div {
+  align-self: stretch;
+  line-height: 37px;
+  font-weight: 900;
+}
+.button-base,
+.dropdown-menu,
+.image-square-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.dropdown-menu {
+  width: 20px;
+  flex-direction: column;
+  padding: 6.5px 0 0;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: 25px;
+}
+.button-base,
+.image-square-parent {
+  align-self: stretch;
+  max-width: 100%;
+}
+.button-base {
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 28px;
+  z-index: 4;
+}
+.image-square-parent {
+  flex-direction: column;
+  gap: 8px;
+}
+.progress-bar {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  background: radial-gradient(50% 50%at 50% 50%, #fff, rgba(255, 255, 255, 0));
+  max-width: 100%;
+  z-index: 4;
+}
+.faq4,
+.radio-button-set {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.radio-button-set {
+  height: 3px;
+  flex-direction: row;
+  padding: 0 17px 0 12px;
+}
+.faq4 {
+  border-radius: 16px;
+  flex-direction: column;
+  padding: 0 35px 0 44px;
+  position: relative;
+  gap: 13px;
+  text-align: center;
+  font-size: 18.9px;
+  color: #fff;
+  font-family: Avenir;
+}
+@media screen and (max-width: 450px) {
+  .div {
+    font-size: 20px;
+    line-height: 29px;
+  }
+}

@@ -1,0 +1,560 @@
+.starryfungi-1,
+.starryfungi-1-wrapper {
+  background: linear-gradient(179.98deg, rgba(0, 0, 0, 0.6), transparent);
+}
+.starryfungi-1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  display: none;
+}
+.starryfungi-1-wrapper {
+  height: 688px;
+  flex: 1;
+  position: relative;
+  overflow: hidden;
+  min-width: 468px;
+  max-width: 100%;
+}
+.get-started,
+.with-journeybound {
+  margin: 0;
+}
+.get-started-with-container {
+  height: 60px;
+  flex: 1;
+  position: relative;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  display: inline-block;
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+  max-width: 100%;
+}
+.get-started-with-journeybound-wrapper {
+  width: 532px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 10px;
+  box-sizing: border-box;
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.frame-child18 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 9.6px;
+  background-color: rgba(121, 37, 255, 0.3);
+  width: 100%;
+  height: 100%;
+}
+.frame-child19 {
+  box-shadow: 0 2.4px 21px rgba(121, 37, 255, 0.85);
+  filter: blur(6px);
+  border-radius: 9.6px;
+  background-color: rgba(121, 37, 255, 0.08);
+  border: 3px solid #7d2cfe;
+  box-sizing: border-box;
+  z-index: 2;
+}
+.frame-child19,
+.frame-child20,
+.rectangle-parent1 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.frame-child20 {
+  box-shadow: 0 2.4px 21px rgba(121, 37, 255, 0.85);
+  filter: blur(4.2px);
+  border-radius: 9.6px;
+  background-color: rgba(121, 37, 255, 0.08);
+  border: 0.6px solid #7d2cfe;
+  box-sizing: border-box;
+  z-index: 3;
+}
+.rectangle-parent1 {
+  margin: 0 !important;
+  right: 0;
+}
+.frame-child21,
+.frame-child22 {
+  position: absolute;
+  top: 0.6px;
+  left: 0;
+  width: 277.2px;
+  height: 3.6px;
+  z-index: 1;
+}
+.frame-child22 {
+  top: 0;
+  background: radial-gradient(50% 50%at 50% 50%, #fff, rgba(255, 255, 255, 0));
+  height: 1.8px;
+  z-index: 4;
+}
+.vector-container {
+  height: 4.2px;
+}
+.frame-child23,
+.frame-parent14,
+.vector-container {
+  align-self: stretch;
+  position: relative;
+}
+.frame-child23 {
+  height: 1.8px;
+  background: radial-gradient(50% 50%at 50% 50%, #fff, rgba(255, 255, 255, 0));
+  z-index: 4;
+}
+.frame-parent14 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 31px 0 33.6px;
+  gap: 43px;
+}
+.ee-mint1,
+.f1 {
+  text-transform: uppercase;
+  font-family: BansheePilot;
+}
+.free-mint1 {
+  height: 21px;
+  flex: 1;
+  position: relative;
+  font-size: 21px;
+  letter-spacing: 0.15em;
+  font-family: "Banshee Pilot";
+  color: #fff;
+  text-align: left;
+  display: inline-block;
+  white-space: nowrap;
+  z-index: 5;
+}
+.free-mint-wrapper {
+  align-self: stretch;
+color: #fff;
+  padding: 0 75px;
+  margin-top: -35.8px;
+  font-family: BansheePilot !important;
+}
+.button-free-mint-wrapper,
+.button-free-mint2 {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.button-free-mint2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0 0 14.4px;
+  background-color: transparent;
+  width: 342px;
+  border-radius: 9.6px;
+  flex-direction: column;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+}
+.button-free-mint-wrapper {
+  width: 532px;
+  flex-direction: row;
+  justify-content: center;
+}
+.elevate-your-consciousness,
+.limited-to-1 {
+  align-self: stretch;
+  position: relative;
+  line-height: 25px;
+}
+.limited-to-1 {
+  height: 132px;
+  font-size: 20px;
+  letter-spacing: 0.01em;
+  line-height: 24.5px;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.elevate-your-consciousness-by-parent,
+.frame-wrapper6 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.elevate-your-consciousness-by-parent {
+  align-items: flex-start;
+  gap: 38px;
+}
+.frame-wrapper6 {
+  align-items: center;
+  padding: 1px 0;
+  flex-shrink: 0;
+}
+.frame-wrapper5 {
+  padding: 0;
+}
+.frame-wrapper4,
+.frame-wrapper5 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.span,
+.u,
+.ue {
+  text-transform: uppercase;
+}
+.span {
+  white-space: pre-wrap;
+}
+.for-unique-journeys,
+.unique-strains {
+  /* align-self: stretch;
+  position: relative;
+  letter-spacing: 0.15em;
+  line-height: 25px;
+  text-shadow: 0 4px 0 rgba(0, 0, 0, 0.25); */
+}
+.for-unique-journeys {
+  text-transform: lowercase;
+}
+.unique-strains-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 58px;
+  gap: 2px;
+}
+.frame-parent18 {
+  width: 431px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 18.5px;
+  font-family: Avenir;
+}
+.frame-parent17 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 26px 0 53px;
+  box-sizing: border-box;
+  gap: 11px;
+  max-width: 100%;
+  text-align: center;
+  font-family: "Banshee Pilot";
+}
+.data-aggregator-icon {
+  width: 323px;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.data-aggregator-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.ultra-rarity-collectables {
+  align-self: stretch;
+  height: 132px;
+  position: relative;
+  font-size: 20px;
+  letter-spacing: 0.01em;
+  line-height: 24.5px;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.cost-absolutely-free{
+ font-size: 21px; 
+}
+.total-supply-unlimited {
+  width: 100%;
+  text-align: left;
+  font-size: 21px;
+  /* display: flex; */
+  align-items: center;
+  justify-content: center;
+}
+.total-supply-unlimited {
+  /* align-self: stretch; */
+  letter-spacing: 0.01em;
+}
+.cost-absolutely-free {
+  width: 244px;
+}
+.just-cover-the,
+.per-wallet-address {
+  margin: 0;
+}
+.per-wallet-address-container {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  letter-spacing: -0.02em;
+  line-height: 28px;
+}
+.decision-maker,
+.input-filter1,
+.iterative-processor {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.decision-maker {
+  align-self: stretch;
+  flex: 1;
+  flex-direction: row;
+  padding: 0 35px;
+  font-size: 21.2px;
+}
+.input-filter1,
+.iterative-processor {
+  flex-direction: column;
+}
+.input-filter1 {
+  align-self: stretch;
+  height: 162px;
+  gap: 22px;
+}
+.iterative-processor {
+  flex: 1;
+  padding: 60.5px 0 0;
+  box-sizing: border-box;
+  min-width: 174px;
+}
+.error-handler1 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  background-color: #7925ff;
+  mix-blend-mode: soft-light;
+}
+.parallel-process {
+  height: 283px;
+  width: 238px;
+  border-radius: 20px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 0 0.2px;
+  box-sizing: border-box;
+  background-image: url(/public/parallel-process@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  min-width: 238px;
+}
+.frame-parent16,
+.value-transformer {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.value-transformer {
+  flex-direction: row;
+  gap: 26px;
+  font-size: 25.2px;
+}
+.frame-parent16 {
+  flex-direction: column;
+  padding: 0 0 16.6px;
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: 21px;
+}
+.holding-a-journeybound,
+.input-validator {
+  align-self: stretch;
+  height: 98px;
+  position: relative;
+  letter-spacing: 0.01em;
+  line-height: 24.5px;
+  display: inline-block;
+}
+.input-validator {
+  height: 25px;
+  white-space: pre-wrap;
+}
+.data-reader {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 17px;
+  font-size: 20px;
+}
+.frame-parent15 {
+  width: 532px;
+  flex-direction: column;
+  gap: 0.4px;
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+  text-align: justify;
+  font-size: 18.4px;
+  font-family: Avenir;
+}
+.frame-parent12,
+.frame-parent13,
+.frame-parent15 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-parent13 {
+  height: 688px;
+  flex: 0.7736;
+  overflow-y: auto;
+  flex-direction: column;
+  padding: 27px 81.5px 514.4px;
+  padding-bottom: 0px;
+  box-sizing: border-box;
+  gap: 28px;
+  background-image: url(/public/frame-73@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  min-width: 468px;
+}
+.frame-parent12 {
+  align-self: stretch;
+  flex-direction: row;
+  row-gap: 20px;
+  text-align: center;
+  font-size: 20px;
+  color: #fff;
+  font-family: "AG 10,191";
+}
+@media screen and (max-width: 1300px) {
+  .starryfungi-1-wrapper {
+    flex: 1;
+  }
+  .frame-parent13 {
+    flex: 1;
+    padding-top: 20px;
+    padding-bottom: 334px;
+    box-sizing: border-box;
+  }
+  .frame-parent12 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1125px) {
+  .frame-parent13 {
+    padding-bottom: 217px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 800px) {
+  .starryfungi-1-wrapper {
+    min-width: 100%;
+  }
+  .elevate-your-consciousness-by-parent {
+    gap: 19px;
+  }
+  .frame-wrapper6 {
+    gap: 22px;
+  }
+  .unique-strains-parent {
+    padding-left: 29px;
+    padding-right: 29px;
+    box-sizing: border-box;
+  }
+  .parallel-process {
+    flex: 1;
+  }
+  .value-transformer {
+    flex-wrap: wrap;
+  }
+  .frame-parent13 {
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 141px;
+    box-sizing: border-box;
+    min-width: 100%;
+  }
+}
+@media screen and (max-width: 450px) {
+  .get-started-with-container {
+    font-size: 16px;
+  }
+  .frame-parent14 {
+    gap: 21px;
+  }
+  .free-mint1 {
+    font-size: 17px;
+  }
+  .free-mint-wrapper {
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+  .limited-to-1 {
+    font-size: 16px;
+    line-height: 20px;
+  }
+  .for-unique-journeys,
+  .unique-strains {
+    font-size: 17px;
+    line-height: 20px;
+  }
+  .frame-parent18 {
+    flex-wrap: wrap;
+  }
+  .ultra-rarity-collectables {
+    font-size: 16px;
+    line-height: 20px;
+  }
+  .cost-absolutely-free,
+  .total-supply-unlimited {
+    font-size: 20px;
+    line-height: 25px;
+  }
+  .per-wallet-address-container {
+    font-size: 17px;
+    line-height: 22px;
+  }
+  .holding-a-journeybound,
+  .input-validator {
+    font-size: 16px;
+    line-height: 20px;
+  }
+  .frame-parent13 {
+    height: auto;
+  }
+}

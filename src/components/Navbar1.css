@@ -1,0 +1,67 @@
+.frame-button {
+  height: 32px;
+  width: 87px;
+  cursor: pointer;
+}
+.button {
+  height: 34px;
+  width: 132px;
+}
+.button1 {
+  height: 34px;
+  flex: 1;
+  box-shadow: 0 0 379.21px #5a27a8, 0 0 216.69px #5a27a8, 0 0 126.4px #5a27a8,
+    0 0 63.2px #5a27a8, 0 0 18.06px #5a27a8, 0 0 9.03px #5a27a8;
+}
+.button2 {
+  height: 34px;
+  width: 137px;
+}
+.button3 {
+  height: 34px;
+  flex: 1;
+}
+.frame-child4 {
+  height: 32px;
+  width: 126px;
+}
+.button-parent {
+  width: 828px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  gap: 20px;
+  max-width: 100%;
+}
+.frame-div,
+.navbar {
+  display: flex;
+  align-items: center;
+  max-width: 100%;
+}
+.frame-div {
+  width: 1278px;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 20px;
+}
+.navbar {
+  align-self: stretch;
+  background-color: #000;
+  flex-direction: column;
+  justify-content: center;
+  padding: 21px 20px;
+  box-sizing: border-box;
+  top: 0;
+  z-index: 99;
+  position: sticky;
+}
+@media screen and (max-width: 1050px) {
+  .button-parent {
+    display: none;
+  }
+  .frame-div {
+    width: 450px;
+  }
+}

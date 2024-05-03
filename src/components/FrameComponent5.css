@@ -1,0 +1,150 @@
+.a-web3-psychedelic,
+.join-our-shared {
+  margin: 0 !important;
+  position: absolute;
+  display: inline-block;
+  z-index: 1;
+}
+.join-our-shared {
+  width: 1132px;
+  top: -4px;
+  left: calc(50% - 566px);
+  letter-spacing: 0.03em;
+  line-height: 46.1px;
+  font-family: Avenir;
+}
+.a-web3-psychedelic {
+  /* width: 801px; */
+  bottom: 190px;
+  left: calc(50% - 400.5px);
+  font-size: 23px;
+  letter-spacing: 0.08em;
+  line-height: 37px;
+  font-weight: 400;
+  /* font-family: inherit; */
+  white-space: nowrap;
+  font-family: AG;
+}
+.untitled-design-54-1 {
+  height: 744px;
+  width: 744px;
+  position: relative;
+  object-fit: cover;
+  display: none;
+  max-width: 100%;
+}
+.atrium-logo2-white-1-1,
+.by-the {
+  position: absolute;
+  margin: 0 !important;
+  z-index: 1;
+}
+.by-the {
+  width: 118px;
+  height: 25px;
+  top: 3.9px;
+  left: 106.5px;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  display: inline-block;
+  font-family: AG;
+}
+.atrium-logo2-white-1-1 {
+  width: 331px;
+  height: 77.9px;
+  bottom: 15.8px;
+  left: 0;
+  object-fit: cover;
+}
+.vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv1 {
+  width: 331px;
+  height: 122.6px;
+  position: relative;
+  text-decoration: underline;
+  letter-spacing: 0.11em;
+  text-transform: uppercase;
+  font-weight: 500;
+  font-family: Avenir;
+  color: transparent;
+  display: inline-block;
+  flex-shrink: 0;
+  max-height: 122.6px;
+  word-break: break-word;
+  z-index: 2;
+}
+.collaboration-manager,
+.project-planner {
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.project-planner {
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 0.5px;
+  position: relative;
+}
+.collaboration-manager {
+  flex: 1;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: center;
+  padding: 40px 20px 40.3px;
+  background-image: url(/public/untitled-design-54-1@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  min-height: 744px;
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+  text-align: left;
+  font-size: 17px;
+}
+.multi-media-controller,
+.user-interface-manager {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.multi-media-controller {
+  align-self: stretch;
+  flex-direction: row;
+  position: relative;
+  flex-shrink: 0;
+}
+.user-interface-manager {
+  height: 711.9px;
+  flex: 1;
+  overflow: hidden;
+  flex-direction: column;
+  padding: 8px 348px 0;
+  box-sizing: border-box;
+  text-align: center;
+  font-size: 29.1px;
+  color: #fff;
+  font-family: "AG 10,191";
+}
+@media screen and (max-width: 750px) {
+  .user-interface-manager {
+    padding-left: 174px;
+    padding-right: 174px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .join-our-shared {
+    font-size: 23px;
+    line-height: 37px;
+  }
+  .a-web3-psychedelic {
+    font-size: 18px;
+    line-height: 29px;
+  }
+  .user-interface-manager {
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+}

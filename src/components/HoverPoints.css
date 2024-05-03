@@ -1,0 +1,77 @@
+.hover-points-child {
+  height: 48px;
+  width: 63px;
+  position: relative;
+}
+.eligibility-is-limited {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: 0.01em;
+  line-height: 46px;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.participating-in-the-free,
+.you-directly-your {
+  margin: 0;
+}
+.journey-nfts-within-container {
+  margin: 0 !important;
+  height: 92px;
+  position: absolute;
+  bottom: -46px;
+  left: 0;
+  font-size: inherit;
+  letter-spacing: 0.01em;
+  line-height: 45.77px;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+}
+.eligibility-is-limited-to-the-parent,
+.hover-points {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.eligibility-is-limited-to-the-parent {
+  flex: 1;
+  justify-content: flex-start;
+  padding: 0 0 37px;
+  position: relative;
+  min-width: 662px;
+}
+.hover-points {
+  align-self: stretch;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 0 0 44px;
+  gap: 60px;
+  text-align: left;
+  font-size: 27px;
+  color: #fff;
+  font-family: Avenir;
+}
+@media screen and (max-width: 1200px) {
+  .hover-points {
+    gap: 30px;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .eligibility-is-limited-to-the-parent {
+    min-width: 100%;
+  }
+}
+@media screen and (max-width: 450px) {
+  .eligibility-is-limited,
+  .journey-nfts-within-container {
+    font-size: 22px;
+    line-height: 37px;
+  }
+}

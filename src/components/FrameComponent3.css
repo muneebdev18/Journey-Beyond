@@ -1,0 +1,366 @@
+.stay-connected-legal {
+  margin: 0;
+  height: 32px;
+  width: 658px;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-family: inherit;
+  white-space: pre-wrap;
+  display: inline-block;
+  flex-shrink: 0;
+  text-shadow: 0.2px 0 0#fff, 0 0.2px 0#fff, -0.2px 0 0#fff, 0-0.2px 0#fff;
+  max-width: 100%;
+}
+.quality-checker {
+  width: 868px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 0 0 60px;
+  box-sizing: border-box;
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.path1009-icon,
+.vvvvvv1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.vvvvvv1 {
+  top: 1px;
+  text-decoration: underline;
+  letter-spacing: 0.11em;
+  text-transform: uppercase;
+  font-weight: 500;
+  color: inherit;
+  display: inline-block;
+  width: 41px;
+  height: 19px;
+  z-index: 1;
+}
+.data-aggregator1 {
+  height: 38.4px;
+  width: 41px;
+  position: relative;
+}
+.icon1 {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vvvvvv2 {
+  flex: 1;
+  position: relative;
+  text-decoration: underline;
+  letter-spacing: 0.11em;
+  text-transform: uppercase;
+  font-weight: 500;
+  color: inherit;
+  z-index: 1;
+}
+.discord-logodiscord-mark-whit1 {
+  width: 49px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 1px 0 17.1px;
+  box-sizing: border-box;
+  position: relative;
+}
+.group-icon {
+  height: 100%;
+  width: 38px;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  max-height: 100%;
+}
+.vvvvvv3 {
+  height: 37px;
+  flex: 1;
+  position: relative;
+  text-decoration: underline;
+  letter-spacing: 0.11em;
+  text-transform: uppercase;
+  font-weight: 500;
+  color: inherit;
+  display: inline-block;
+  z-index: 1;
+}
+.group-div {
+  width: 41px;
+  justify-content: flex-start;
+  padding: 1px 0 0;
+  box-sizing: border-box;
+  position: relative;
+}
+.deployment-controller,
+.group-div,
+.monitoring-operator {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.monitoring-operator {
+  width: 297px;
+  justify-content: space-between;
+  gap: 20px;
+}
+.deployment-controller {
+  align-self: stretch;
+  justify-content: center;
+  padding: 0 20px 0 28px;
+  font-family: Avenir;
+}
+.join-the-journey {
+  width: 275px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.sequence-controller {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px 0 68px;
+  font-size: 33.5px;
+  color: #d1d1d1;
+}
+.copyright-2024 {
+  align-self: stretch;
+  position: relative;
+  font-size: 24.4px;
+  color: #56535d;
+}
+.backup-handler,
+.upgrade-installer {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.upgrade-installer {
+  align-self: stretch;
+  gap: 30.3px;
+}
+.backup-handler {
+  flex: 1;
+  padding: 14px 0 0;
+  box-sizing: border-box;
+  min-width: 423px;
+  max-width: 100%;
+}
+.disclaimer1,
+.licensing-agreement,
+.purchase-agreement,
+.terms-of-use {
+  margin: 0;
+}
+.disclaimer {
+  height: 124px;
+  position: relative;
+  text-decoration: underline;
+  display: inline-block;
+}
+.image-6-icon,
+.image-7-icon {
+  position: absolute;
+  top: 99px;
+  left: 0;
+  width: 204px;
+  height: 101px;
+  object-fit: cover;
+}
+.image-7-icon {
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  max-height: 100%;
+  width: 186px;
+  z-index: 1;
+}
+.image-6-parent,
+.jb-white-e-1-11 {
+  position: absolute;
+  top: 77px;
+  left: 292px;
+  width: 204px;
+  height: 200px;
+}
+.jb-white-e-1-11 {
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  max-height: 100%;
+  width: 331px;
+  overflow: hidden;
+  object-fit: cover;
+  z-index: 2;
+}
+.loop-controller-icon,
+.loop-controller-icon1 {
+  position: absolute;
+  top: 99px;
+  left: 346.1px;
+  width: 1021.9px;
+  height: 2px;
+  z-index: 2;
+}
+.loop-controller-icon1 {
+  top: 258px;
+}
+.connection-manager {
+  height: 302px;
+  width: 1368px;
+  position: absolute;
+  margin: 0 !important;
+  top: -122px;
+  left: -1009px;
+}
+.data-storage {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+}
+.licensing-agreement1,
+.terms-of-use1 {
+  width: 0;
+  height: 31px;
+  position: relative;
+  text-decoration: underline;
+  letter-spacing: 0.03em;
+  display: inline-block;
+}
+.function-caller,
+.maintenance-engineer {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 17px;
+  font-size: 22.4px;
+  color: #d1d1d1;
+  font-family: Avenir;
+}
+.maintenance-engineer {
+  width: 868px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 3px;
+  max-width: 100%;
+  flex-shrink: 0;
+  font-size: 15.6px;
+  color: transparent;
+  font-family: "Avenir Next LT Pro";
+}
+.feedback-generator,
+.security-enforcer {
+  display: flex;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.feedback-generator {
+  height: 297px;
+  flex: 1;
+  border-radius: 17px;
+  border: 2px solid #fff;
+  overflow: hidden;
+  flex-direction: column;
+  align-items: center;
+  padding: 25px 20px 240px 199px;
+  gap: 42px;
+  text-align: left;
+  font-size: 22px;
+  color: #fff;
+  font-family: "AG 10,191";
+}
+.security-enforcer {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 20px 0 20.5px;
+}
+@media screen and (max-width: 1200px) {
+  .feedback-generator {
+    padding-left: 99px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .join-the-journey {
+    font-size: 27px;
+  }
+  .feedback-generator {
+    height: auto;
+  }
+}
+@media screen and (max-width: 750px) {
+  .quality-checker {
+    padding-left: 30px;
+    box-sizing: border-box;
+  }
+  .upgrade-installer {
+    gap: 15px;
+  }
+  .backup-handler {
+    min-width: 100%;
+  }
+  .feedback-generator {
+    gap: 21px;
+    padding-left: 49px;
+    padding-top: 20px;
+    padding-bottom: 156px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .stay-connected-legal {
+    font-size: 18px;
+  }
+  .join-the-journey {
+    font-size: 20px;
+  }
+  .sequence-controller {
+    padding-left: 20px;
+    box-sizing: border-box;
+  }
+  .copyright-2024 {
+    font-size: 20px;
+  }
+  .disclaimer,
+  .licensing-agreement1,
+  .terms-of-use1 {
+    font-size: 18px;
+  }
+  .feedback-generator {
+    padding-left: 20px;
+    box-sizing: border-box;
+  }
+}

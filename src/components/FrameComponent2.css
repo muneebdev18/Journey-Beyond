@@ -1,0 +1,42 @@
+/* .self-stretch {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding-top: 0;
+  padding-right: 3px;
+  padding-bottom: 0;
+  padding-left: 3px;
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: left;
+  font-size: 1.6rem; 
+  color: #ffffff;
+  font-family: 'font-ag-10191', sans-serif;
+} */
+
+/* The commented-out div was used for layout in Tailwind CSS, so it's not necessary in regular CSS */
+/* .self-stretch > div {
+  flex: 1;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding-top: 496px;
+  padding-right: 99px;
+  padding-bottom: 90px;
+  padding-left: 99px;
+  position: relative;
+  row-gap: 20px;
+  max-width: 100%;
+} */
+
+.self-stretch .h-full {
+  height: 100%;
+}
+
+.self-stretch .w-full {
+  width: 100%;
+}
+
+

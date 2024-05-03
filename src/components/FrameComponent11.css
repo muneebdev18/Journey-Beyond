@@ -1,0 +1,134 @@
+.brain-brew-pdx {
+  margin: 0;
+  font-family: AG;
+  font-size: inherit;
+  letter-spacing: 0.1em;
+  line-height: 74px;
+  text-transform: lowercase;
+  font-weight: 400;
+  display: inline-block;
+  max-width: 100%;
+  white-space: nowrap;
+  margin-left: 120px;
+  font-family: AG;
+}
+.located-in-the {
+  align-self: stretch;
+  position: relative;
+  line-height: 46px;
+}
+.specializing-in-psilocybin {
+  position: relative;
+  line-height: 46px;
+  display: inline-block;
+  max-width: 100%;
+}
+.located-in-the-portland-orego-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 15px;
+  box-sizing: border-box;
+  gap: 10px;
+  max-width: 100%;
+  font-size: 29.4px;
+  font-family: Avenir;
+}
+.brain-brew-pdxs {
+  text-decoration: underline;
+}
+.brain-brew-pdxs-service-cente {
+  color: inherit;
+}
+.learn-more-about-container {
+    /* align-self: stretch; */
+    /* height: 64px; */
+    position: relative;
+    font-size: 24.1px;
+    letter-spacing: 0.16em;
+    line-height: 64px;
+    /* font-family: "Elemental End"; */
+    /* display: inline-block; */
+    font-family: Elemental;
+    /* width: 100% !important;*/
+}
+
+.brain-brew-pdx-parent {
+  width: 1104px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 41px;
+  max-width: 100%;
+}
+.untitled-design-55-1 {
+  width: 588.5px;
+  height: 619px;
+  position: absolute;
+  margin: 0 !important;
+  top: calc(50% - 310.5px);
+  left: calc(50% - 767.3px);
+  object-fit: contain;
+  z-index: 1;
+}
+.frame-parent3 {
+  align-self: stretch;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 0 168px 0 0;
+  box-sizing: border-box;
+  position: relative;
+  gap: 10px;
+  min-height: 372px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 35px;
+  color: #fff;
+  font-family: "AG 10,191";
+}
+@media screen and (max-width: 1200px) {
+  .frame-parent3 {
+    padding-right: 84px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .brain-brew-pdx {
+    font-size: 28px;
+    line-height: 59px;
+  }
+}
+@media screen and (max-width: 750px) {
+  .brain-brew-pdx-parent {
+    gap: 20px;
+  }
+  .frame-parent3 {
+    padding-right: 42px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .brain-brew-pdx {
+    font-size: 21px;
+    line-height: 44px;
+  }
+  .located-in-the,
+  .specializing-in-psilocybin {
+    font-size: 24px;
+    line-height: 37px;
+  }
+  .learn-more-about-container {
+    font-size: 20px;
+    line-height: 51px;
+  }
+  .frame-parent3 {
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+}

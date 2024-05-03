@@ -1,0 +1,52 @@
+@import url("https://fonts.googleapis.com/css2?family=AG+10,191:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Avenir:wght@400;500;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Elemental+End:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Banshee+Pilot:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Avenir+Next+LT+Pro:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+#root{
+  overflow-x: hidden !important;
+}
+a{
+  margin: 0 !important;
+  padding: 0 !important;
+}
+.timer::-webkit-scrollbar {
+  width: 0px;
+}
+.timer::-webkit-scrollbar-track {
+  background: #fff; 
+}
+.timer::-webkit-scrollbar-thumb {
+  background: #101010e0; 
+}
+@font-face {
+  font-family: AG;
+  src: url('../public/fonts/AG\ 10191.otf');
+}
+@font-face {
+  font-family: Avenir;
+  src: url('../public/fonts/avenir_roman_12.otf');
+}
+@font-face {
+  font-family: BansheePilot;
+  src: url('../public/fonts/BansheePilot-WxOY.otf');
+}
+@font-face {
+  font-family: ClashDisplayBold;
+  src: url(../public/fonts/ClashDisplayBold.otf);
+}
+@font-face {
+  font-family: ClashDisplayReg;
+  src: url(../public/fonts/ClashDisplayRegular.otf);
+}
+
+@font-face {
+  font-family: Elemental;
+  src: url('../public/fonts/Elemental\ End.ttf');
+}

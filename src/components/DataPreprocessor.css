@@ -1,0 +1,361 @@
+.stay-connected-legal1 {
+  height: 32px;
+  width: 658px;
+  position: relative;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  white-space: pre-wrap;
+  display: inline-block;
+  flex-shrink: 0;
+  text-shadow: 0.2px 0 0#fff, 0 0.2px 0#fff, -0.2px 0 0#fff, 0-0.2px 0#fff;
+  max-width: 100%;
+}
+.action-sequencer {
+  width: 868px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 0 0 60px;
+  box-sizing: border-box;
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.path1009-icon1,
+.vvvvvv4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.vvvvvv4 {
+  top: 1px;
+  text-decoration: underline;
+  letter-spacing: 0.11em;
+  text-transform: uppercase;
+  font-weight: 500;
+  color: inherit;
+  display: inline-block;
+  width: 41px;
+  height: 19px;
+  z-index: 1;
+}
+.feature-scaler {
+  height: 38.4px;
+  width: 41px;
+  position: relative;
+}
+.icon2 {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vvvvvv5 {
+  flex: 1;
+  position: relative;
+  text-decoration: underline;
+  letter-spacing: 0.11em;
+  text-transform: uppercase;
+  font-weight: 500;
+  color: inherit;
+  z-index: 1;
+}
+.discord-logodiscord-mark-whit2 {
+  width: 49px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 1px 0 17.1px;
+  box-sizing: border-box;
+  position: relative;
+}
+.frame-child16 {
+  height: 100%;
+  width: 38px;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  max-height: 100%;
+}
+.vvvvvv6 {
+  height: 37px;
+  flex: 1;
+  position: relative;
+  text-decoration: underline;
+  letter-spacing: 0.11em;
+  text-transform: uppercase;
+  font-weight: 500;
+  color: inherit;
+  display: inline-block;
+  z-index: 1;
+}
+.frame-parent11 {
+  width: 41px;
+  justify-content: flex-start;
+  padding: 1px 0 0;
+  box-sizing: border-box;
+  position: relative;
+}
+.cluster-merger,
+.frame-parent11,
+.model-refiner {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.model-refiner {
+  width: 297px;
+  justify-content: space-between;
+  gap: 20px;
+}
+.cluster-merger {
+  align-self: stretch;
+  justify-content: center;
+  padding: 0 20px 0 28px;
+  font-family: Avenir;
+}
+.join-the-journey1 {
+  width: 275px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.feature-explorer {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px 0 68px;
+  font-size: 33.5px;
+  color: #d1d1d1;
+}
+.copyright-20241 {
+  align-self: stretch;
+  position: relative;
+  font-size: 24.4px;
+  color: #56535d;
+}
+.graph-analyzer,
+.tree-optimizer {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.tree-optimizer {
+  align-self: stretch;
+  gap: 30.3px;
+}
+.graph-analyzer {
+  flex: 1;
+  padding: 14px 0 0;
+  box-sizing: border-box;
+  min-width: 423px;
+  max-width: 100%;
+}
+.disclaimer3,
+.licensing-agreement2,
+.purchase-agreement1,
+.terms-of-use2 {
+  margin: 0;
+}
+.disclaimer2 {
+  height: 110px;
+  position: relative;
+  text-decoration: underline;
+  /* display: inline-block; */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.image-6-icon1,
+.image-7-icon1 {
+  position: absolute;
+  top: 99px;
+  left: 0;
+  width: 204px;
+  height: 101px;
+  object-fit: cover;
+}
+.image-7-icon1 {
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  max-height: 100%;
+  width: 186px;
+  z-index: 1;
+}
+.image-6-group,
+.jb-white-e-1-13 {
+  position: absolute;
+  top: 77px;
+  left: 292px;
+  width: 204px;
+  height: 200px;
+}
+.jb-white-e-1-13 {
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  max-height: 100%;
+  width: 331px;
+  overflow: hidden;
+  object-fit: cover;
+  z-index: 2;
+}
+.color-palette-icon,
+.color-palette-icon1 {
+  position: absolute;
+  top: 99px;
+  left: 346.1px;
+  width: 1021.9px;
+  height: 2px;
+  z-index: 2;
+}
+.color-palette-icon1 {
+  top: 258px;
+}
+.link-collector {
+  height: 302px;
+  width: 1368px;
+  position: absolute;
+  margin: 0 !important;
+  top: -122px;
+  left: -1009px;
+}
+.tree-builder1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+}
+.licensing-agreement3,
+.terms-of-use3 {
+  width: 0;
+  height: 31px;
+  position: relative;
+  text-decoration: underline;
+  letter-spacing: 0.03em;
+  display: inline-block;
+}
+.scoring-function,
+.tree-builder-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 17px;
+  font-size: 22.4px;
+  color: #d1d1d1;
+  font-family: Avenir;
+}
+.scoring-function {
+  width: 868px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 3px;
+  max-width: 100%;
+  flex-shrink: 0;
+  font-size: 15.6px;
+  color: transparent;
+  font-family: "Avenir Next LT Pro";
+}
+.data-preprocessor,
+.error-handler {
+  display: flex;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.error-handler {
+  height: 297px;
+  flex: 1;
+  border-radius: 17px;
+  border: 2px solid #fff;
+  overflow: hidden;
+  flex-direction: column;
+  align-items: center;
+  padding: 25px 20px 240px 199px;
+  gap: 42px;
+  text-align: left;
+  font-size: 22px;
+  color: #fff;
+  font-family: "AG 10,191";
+}
+.data-preprocessor {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 20px 0 20.5px;
+}
+@media screen and (max-width: 1125px) {
+  .error-handler {
+    height: auto;
+    padding-left: 99px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 800px) {
+  .action-sequencer {
+    padding-left: 30px;
+    box-sizing: border-box;
+  }
+  .join-the-journey1 {
+    font-size: 27px;
+  }
+  .tree-optimizer {
+    gap: 15px;
+  }
+  .graph-analyzer {
+    min-width: 100%;
+  }
+  .error-handler {
+    gap: 21px;
+    padding-left: 49px;
+    padding-top: 20px;
+    padding-bottom: 156px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .stay-connected-legal1 {
+    font-size: 18px;
+  }
+  .join-the-journey1 {
+    font-size: 20px;
+  }
+  .feature-explorer {
+    padding-left: 20px;
+    box-sizing: border-box;
+  }
+  .copyright-20241 {
+    font-size: 20px;
+  }
+  .disclaimer2,
+  .licensing-agreement3,
+  .terms-of-use3 {
+    font-size: 18px;
+  }
+  .error-handler {
+    padding-left: 20px;
+    box-sizing: border-box;
+  }
+}

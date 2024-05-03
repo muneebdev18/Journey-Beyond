@@ -1,0 +1,109 @@
+.are-eligible-for,
+.the-first-20 {
+  position: relative;
+  line-height: 46px;
+}
+.are-eligible-for-a-free-psiloc-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 59px 0 59.5px;
+}
+.the-first-20-individuals-to-co-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.brain-brew-11 {
+  height: 114.1px;
+  width: 305px;
+  position: relative;
+  object-fit: cover;
+  display: none;
+}
+.vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv {
+  width: 305px;
+  position: relative;
+  text-decoration: underline;
+  letter-spacing: 0.11em;
+  text-transform: uppercase;
+  font-weight: 500;
+  color: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  max-height: 19px;
+  word-break: break-word;
+  z-index: 1;
+}
+.brain-brew-1-parent,
+.frame-wrapper1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.brain-brew-1-parent {
+  justify-content: flex-start;
+  padding: 1px 0 94.1px 0.5px;
+  background-image: url(/public/brain-brew-1@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.frame-wrapper1 {
+  width: 1122px;
+  justify-content: center;
+  max-width: 100%;
+  font-size: 15.6px;
+  color: transparent;
+}
+.frame-parent4 {
+  align-self: stretch;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 62px 20px;
+  box-sizing: border-box;
+  gap: 411px;
+  background-image: url(/public/frame-139@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  max-width: 100%;
+  text-align: left;
+  font-size: 26.9px;
+  color: #fff;
+  font-family: Avenir;
+}
+@media screen and (max-width: 1200px) {
+  .are-eligible-for-a-free-psiloc-wrapper {
+    padding-left: 29px;
+    padding-right: 29px;
+    box-sizing: border-box;
+  }
+  .frame-parent4 {
+    gap: 205px;
+  }
+}
+@media screen and (max-width: 750px) {
+  .frame-parent4 {
+    gap: 103px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .are-eligible-for,
+  .the-first-20 {
+    font-size: 22px;
+    line-height: 37px;
+  }
+  .frame-parent4 {
+    gap: 51px;
+  }
+}

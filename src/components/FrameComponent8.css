@@ -1,0 +1,278 @@
+.how-it-works {
+  margin: 0;
+  /* width: 376px; */
+  /* position: relative; */
+  font-size: 23px;
+  letter-spacing: 0.13em;
+  line-height: 33px;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-family: AG;
+  display: inline-block;
+  max-width: 100%;
+}
+.sequence-controller-icon1 {
+  height: 48px;
+  width: 63px;
+  position: relative;
+}
+.eligibility-is-limited1,
+.journey-nfts-within {
+  position: relative;
+  line-height: 46px;
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+}
+.eligibility-is-limited1 {
+  align-self: stretch;
+}
+.journey-nfts-within {
+  margin: 0;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+}
+.parameter-processor {
+  height: 37px;
+  flex-direction: row;
+  justify-content: flex-start;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: 27px;
+}
+.hover-points1,
+.parameter-processor,
+.timing-regulator {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.timing-regulator {
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+  min-width: 662px;
+}
+.hover-points1 {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 60px;
+}
+.hover-points-item {
+  height: 48px;
+  width: 63px;
+  position: relative;
+}
+.eligibility-is-limited2 {
+  align-self: stretch;
+  letter-spacing: 0.01em;
+  white-space: pre-wrap;
+}
+.eligibility-is-limited2,
+.journey-nfts-within1 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 46px;
+  font-weight: 400;
+  font-family: inherit;
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+}
+.journey-nfts-within-the-journe-wrapper {
+  height: 37px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: 27px;
+}
+.eligibility-is-limited-to-the-group {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  min-width: 662px;
+  max-width: 100%;
+}
+.hover-points2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 60px;
+  max-width: 100%;
+  font-size: 28px;
+}
+.hover-points-inner {
+  height: 48px;
+  width: 63px;
+  position: relative;
+}
+.eligibility-is-limited3,
+.journey-nfts-within2 {
+  position: relative;
+  letter-spacing: 0.01em;
+  line-height: 46px;
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+}
+.eligibility-is-limited3 {
+  align-self: stretch;
+  white-space: pre-wrap;
+}
+.journey-nfts-within2 {
+  margin-top: -9px;
+}
+.journey-nfts-within-the-journe-container {
+  height: 37px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: 26.6px;
+}
+.eligibility-is-limited-to-the-container {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  min-width: 662px;
+  max-width: 100%;
+}
+.hover-points3,
+.variable-manager {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.hover-points3 {
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 0 0 1px;
+  box-sizing: border-box;
+  gap: 60px;
+  font-size: 27.4px;
+}
+.variable-manager {
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 44px;
+  text-align: left;
+  font-size: 28.4px;
+  font-family: Avenir;
+}
+.data-transformer {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  box-shadow: 0 0 19px rgba(125, 44, 254, 0.95),
+    0 0 19px rgba(125, 44, 254, 0.95);
+  border-radius: 100px;
+  background-color: #fff;
+  max-width: 100%;
+}
+.function-composer,
+.instruction-follower {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.instruction-follower {
+  align-self: stretch;
+  height: 7px;
+  flex-direction: row;
+  padding: 0 43px 0 43.5px;
+}
+.function-composer {
+  flex: 1;
+  overflow: hidden;
+  flex-direction: column;
+  padding: 72px 149px 155px;
+  gap: 72px;
+  background-image: url(/public/function-composer@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: center;
+  font-size: 24px;
+  color: #fff;
+  font-family: "AG 10,191";
+}
+@media screen and (max-width: 1200px) {
+  .hover-points1,
+  .hover-points2,
+  .hover-points3 {
+    gap: 30px;
+  }
+  .instruction-follower {
+    padding-left: 21px;
+    padding-right: 21px;
+    box-sizing: border-box;
+  }
+  .function-composer {
+    padding-top: 47px;
+    padding-bottom: 101px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .eligibility-is-limited-to-the-container,
+  .eligibility-is-limited-to-the-group,
+  .timing-regulator {
+    min-width: 100%;
+  }
+}
+@media screen and (max-width: 750px) {
+  .variable-manager {
+    gap: 22px;
+  }
+  .function-composer {
+    gap: 36px;
+    padding: 31px 74px 66px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .how-it-works {
+    font-size: 19px;
+    line-height: 26px;
+  }
+  .eligibility-is-limited1 {
+    font-size: 23px;
+    line-height: 37px;
+  }
+  .eligibility-is-limited2,
+  .eligibility-is-limited3,
+  .journey-nfts-within,
+  .journey-nfts-within1 {
+    font-size: 22px;
+    line-height: 37px;
+  }
+  .journey-nfts-within2 {
+    font-size: 21px;
+    line-height: 37px;
+  }
+  .function-composer {
+    gap: 18px;
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+}

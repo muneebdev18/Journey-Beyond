@@ -1,0 +1,14 @@
+.guided-services {
+  width: 100%;
+  position: relative;
+  box-shadow: 150px 174px 214px rgba(0, 0, 0, 0.21);
+  background-color: #000;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 36px;
+  box-sizing: border-box;
+  line-height: normal;
+  letter-spacing: normal;
+}

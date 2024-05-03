@@ -1,0 +1,258 @@
+.untitled-design-52-1,
+.untitled-design-52-2 {
+  position: absolute;
+  top: 0;
+  left: -339px;
+  width: 1432px;
+  height: 930px;
+  object-fit: cover;
+}
+.untitled-design-52-1 {
+  top: 837.1px;
+  left: -1286px;
+  width: 1214px;
+  height: 680.8px;
+  z-index: 1;
+}
+.untitled-design-52-2-parent {
+  width: 1093px;
+  height: 1517.9px;
+  position: absolute;
+  margin: 0 !important;
+  right: -373px;
+  bottom: -643.9px;
+}
+.frame-child7 {
+  width: 1304px;
+  height: 958px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+  max-width: 100%;
+  z-index: 1;
+}
+.in-the-atriums,
+.receive-the-role {
+  margin: 0;
+  font-family: Elemental;
+}
+.receive-the-role-container {
+  align-self: stretch;
+  position: relative;
+  letter-spacing: 0.21em;
+  line-height: 46.17px;
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+  z-index: 1;
+}
+.icon {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.discord-logodiscord-mark-whit,
+.vvvvvv {
+  flex-shrink: 0;
+  position: relative;
+  debug_commit: 1de1738;
+  z-index: 1;
+}
+.vvvvvv {
+  margin-left: -0.5px;
+  height: 64.9px;
+  flex: 1;
+  text-decoration: underline;
+  letter-spacing: 0.11em;
+  text-transform: uppercase;
+  font-weight: 500;
+  color: inherit;
+  display: inline-block;
+}
+.discord-logodiscord-mark-whit {
+  width: 85px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.data-aggregator,
+.image-analyzer {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+}
+.image-analyzer {
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 20px;
+  text-align: left;
+  font-size: 27.4px;
+  color: transparent;
+  font-family: Avenir;
+}
+.data-aggregator {
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 116px;
+  flex-shrink: 0;
+}
+.journeybound,
+.on {
+  margin: 0;
+  font-family: Elemental;
+}
+.journeybound-on {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.21em;
+  line-height: 46.17px;
+  z-index: 1;
+}
+.untitled-design-64-1 {
+  height: 139px;
+  width: 139px;
+  position: relative;
+  object-fit: contain;
+}
+.feedback-collector {
+  position: absolute;
+  top: 63px;
+  left: 79.5px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 10px;
+  z-index: 2;
+}
+.output-formatter {
+  height: 222px;
+  width: 318px;
+  position: relative;
+}
+.frame-parent6,
+.input-filter {
+  display: flex;
+  align-items: flex-start;
+}
+.input-filter {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 20px;
+}
+.frame-parent6 {
+  height: 815px;
+  flex: 0.8806;
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 85px 32px 410.6px 54px;
+  box-sizing: border-box;
+  position: relative;
+  gap: 191px;
+  min-width: 468px;
+  max-width: 100%;
+}
+.untitled-design-52-11 {
+    /* position: absolute; */
+    top: 778.1px;
+    left: -1286px;
+    width: 1214px;
+    /* height: 810.8px; */
+    object-fit: cover;
+}
+.cosmicjourney-1,
+.cosmicjourney-2 {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0.5px;
+  left: 0.5px;
+  height: 100%;
+  display: none;
+}
+.cosmicjourney-2 {
+  z-index: 1;
+}
+.untitled-design-52-1-parent {
+  height: 815px;
+  flex: 1;
+  position: relative;
+  overflow: hidden;
+  min-width: 468px;
+  max-width: 100%;
+}
+.frame-parent5 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+  row-gap: 20px;
+  text-align: center;
+  font-size: 24.8px;
+  color: #fff;
+  font-family: "Elemental End";
+}
+@media screen and (max-width: 1200px) {
+  .frame-parent6 {
+    flex: 1;
+    padding-top: 55px;
+    padding-bottom: 267px;
+    box-sizing: border-box;
+  }
+  .untitled-design-52-1-parent {
+    flex: 1;
+  }
+  .frame-parent5 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 750px) {
+  .data-aggregator {
+    gap: 58px;
+  }
+  .frame-parent6 {
+    gap: 95px;
+    padding-left: 27px;
+    padding-top: 36px;
+    padding-bottom: 174px;
+    box-sizing: border-box;
+    min-width: 100%;
+  }
+  .untitled-design-52-1-parent {
+    min-width: 100%;
+  }
+}
+@media screen and (max-width: 450px) {
+  .receive-the-role-container {
+    font-size: 20px;
+    line-height: 37px;
+  }
+  .vvvvvv {
+    font-size: 22px;
+  }
+  .data-aggregator {
+    gap: 29px;
+  }
+  .journeybound-on {
+    font-size: 20px;
+    line-height: 37px;
+  }
+  .frame-parent6 {
+    gap: 48px;
+  }
+}

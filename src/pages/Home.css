@@ -1,0 +1,109 @@
+.frame-child {
+  height: 827px;
+  flex: 1;
+  position: relative;
+  max-width: calc(100% - 720px);
+  overflow: hidden;
+  object-fit: cover;
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+}
+.journey-bound-orange,
+.journey-bound-orange1,
+.journey-bound-orange2 {
+  align-self: stretch;
+  width: 723px;
+  position: relative;
+  max-height: 100%;
+  flex-shrink: 0;
+  object-fit: cover;
+  min-height: 800px;
+  debug_commit: 1de1738;
+}
+.journey-bound-orange1,
+.journey-bound-orange2 {
+  width: 724px;
+}
+.journey-bound-orange2 {
+  width: 723px;
+}
+.component-1,
+.frame-parent {
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.component-1 {
+  width: 720px;
+  overflow-x: auto;
+  debug_commit: 1de1738;
+  max-width: calc(100% - 722px);
+}
+.frame-parent {
+  margin-left: -2px;
+  margin-bottom: 26.449999999999815px;
+  align-self: stretch;
+  height: 800px;
+  background-color: #000;
+  overflow: hidden;
+  padding: 0 2px 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+/* Join the web -c */
+.join-the-web3{
+font-family: Avenir;
+}
+.home,
+.join-the-web3-psychedelic-revo-wrapper {
+  display: flex;
+  align-items: flex-start;
+  box-sizing: border-box;
+}
+.join-the-web3-psychedelic-revo-wrapper {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 20px 25.7px;
+  max-width: 100%;
+}
+.home {
+  width: 100%;
+  position: relative;
+  box-shadow: 150px 174px 214px rgba(0, 0, 0, 0.21);
+  background-color: #000;
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0 0 36px;
+  line-height: 0px;
+  letter-spacing: normal;
+  text-align: center;
+  font-size: 41.3px;
+  color: #fff;
+  font-family: "Avenir Next LT Pro";
+}
+@media screen and (max-width: 1125px) {
+  .component-1,
+  .frame-child {
+    display: none;
+    max-width: 100%;
+  }
+  .frame-parent {
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 800px) {
+  .join-the-web3 {
+    font-size: 33px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .join-the-web3 {
+    font-size: 25px;
+  }
+}
